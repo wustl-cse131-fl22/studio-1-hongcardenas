@@ -1,6 +1,7 @@
 package studio1;
 
-import java.util.Scanner;
+
+
 
 /**
  * From Sedgewick and Wayne, COS 126 course at Princeton
